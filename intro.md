@@ -1,3 +1,3 @@
 ﻿自己紹介
-mamisada
-
+@mamisada(Twitter / GitHub)
+Code for Japan / community lead
